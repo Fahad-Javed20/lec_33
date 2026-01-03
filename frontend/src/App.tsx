@@ -1,9 +1,9 @@
 function App() {
   return (
     <>
-      
+      <div>fahad</div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
