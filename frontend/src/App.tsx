@@ -1,7 +1,9 @@
+import CounterComponent from "./components/CounterComponent";
+
 function App() {
   return (
     <>
-      <div>fahad</div>
+      <CounterComponent />
     </>
   );
 }
