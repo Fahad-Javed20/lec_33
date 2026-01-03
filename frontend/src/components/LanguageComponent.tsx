@@ -27,7 +27,7 @@ const LanguageComponent = () => {
 
         <div className="mt-10">
 
-          <select onChange={(e) => setLanguage(e.target.value)}>
+          <select className="border py-1" onChange={(e) => setLanguage(e.target.value)}>
             <option value="">Select Language</option>
             <option value="en">English</option>
             <option value="fr">French</option>
